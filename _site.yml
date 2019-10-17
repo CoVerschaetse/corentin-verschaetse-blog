@@ -1,5 +1,5 @@
 name: "blog-template"
-title: "Corals"
+title: "Corentin's blog"
 output_dir: "docs"
 navbar:
   right:
