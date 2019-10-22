@@ -5,6 +5,7 @@ author:
   - name: Verschaetse Corentin
     url: {}
 date: 10-02-2019
+preview: images/Article1.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -14,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![Credit: Ved Chirayath/NASA Ames Lab for Advanced Sensing](../2019-10-02-article1/Images/Article 1.jpg)
+![Credit: Ved Chirayath/NASA Ames Lab for Advanced Sensing](../2019-10-02-article1/Images/Article1.jpg)
 
 
 # Vocabulary
