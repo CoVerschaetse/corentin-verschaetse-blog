@@ -37,8 +37,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Analysis table
 
-| Researchers                  | Romina King, an environmental geographer at the University of Guam in Mangilao (one of the project’s principal investigators).  Ved Chirayath, director of the NASA Ames Laboratory for Advanced Sensing in Mountain View. |
+|                              |                                                                                                                                                                                                                            |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                  | **Romina King**, an environmental geographer at the University of Guam in Mangilao (one of the project’s principal investigators).  **Ved Chirayath**, director of the NASA Ames Laboratory for Advanced Sensing in Mountain View. |
 | Published in ?               | 25 JUNE 2019                                                                                                                                                                                                               |
 | General topic?               | This article deals with drones which are use to make a cartography of the coral reef.                                                                                                                                      |
 | Procedure/what was examined? |  These drones are a new engineer invention. They are able to take perfectly clear shots through the water.                                                                                                                 |

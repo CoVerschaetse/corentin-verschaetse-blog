@@ -14,5 +14,8 @@ navbar:
 base_url: http://CoVerschaetse.github.io/corentin-verschaetse-blog/
 collections:
     posts:
+      disqus: 
+        shortname: corentin-verschaetse-blog
+        hidden: false
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
