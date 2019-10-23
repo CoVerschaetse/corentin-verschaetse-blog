@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![Credit: Ved Chirayath/NASA Ames Lab for Advanced Sensing](../2019-10-02-article1/Images/Article1.jpg)
+![Credit: Ved Chirayath/NASA Ames Lab for Advanced Sensing](Images/Article1.jpg)
 
 
 # Vocabulary
