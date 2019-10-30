@@ -1,0 +1,30 @@
+---
+title: "Article 2 : 3-D printed coral could help endangered reefs"
+description: 
+author:
+  - name: Verschaetse Corentin
+    url: {}
+date: 10-30-2019
+preview: "Images/Article2.jpg"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![Source : University of Delaware](Images/Article2.jpg)
+
+# Vocabulary
+
+| Words from the text              | Synonym /   explanation in English         |
+| -------------------------------- | ------------------------------------------ |
+| In their wake                    | In their way                               |
+| A shelter                        | A refuge, a safe house                     |
+| To withstand                     | To resist                                  |
+| To supplement                    | To complete, to add to                     |
+| Damselfish                       |                                            |
+| A settling stony coral.          |                                            |
+| Cornstarch [US] = cornflour [UK] | a starch or a starchy flour made from corn |
