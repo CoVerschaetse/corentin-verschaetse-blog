@@ -34,6 +34,8 @@ knitr::opts_chunk$set(echo = TRUE)
 | Freshwater                          | unsalted water                                                                                              |
 | To snag                             | To catch                                                                                                    |
 
+# Illustrations
+
 ![Dameselfish : *Chromis viridis* Cuvier, 1830](Images/Chromis_viridis_male.jpg)
 
 ![Mustard hill coral : *Porites astreoides* Lamarck, 1816](Images/Porites_astreoides.jpg)
