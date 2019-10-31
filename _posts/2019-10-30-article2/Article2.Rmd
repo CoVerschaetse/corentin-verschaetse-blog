@@ -38,8 +38,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![Mustard hill coral : *Porites astreoides* Lamarck, 1816](Images/Porites_astreoides.jpg)
 
-![](Images/Asian_Carp.jpg)
+![Asian carp](Images/Asian_Carp.jpg)
 
 # Analysis table
 
+|                              |                                                                                                                                                                                                                                          |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                  | **Danielle Dixson** is an associate professor in UD's College of Earth, Ocean and Environment's School of Marine Science and Policy. **Emily Ruhl** earned her master's degree in marine biosciences at UD in 2018.                      |
+| Published in?                | October 16, 2019                                                                                                                                                                                                                         |
+| General topic?               | The goal is to provide a structural starter kit for reef organisms.                                                                                                                                                                      |
+| Procedure/what was examined? | Research is about 3D-printed coral. What kind of material should we use to enable organisms to develop? And that without further polluting. The research focuses specifically on cohabitation between damselfish and mustard hill coral. |
+| Conclusions/discovery?       | Damselfish have no preference between coral skeleton or 3D-printed coral. They just want protection.  Moreover, mustard hill coral larvae settled easier on 3D-printed surfaces compared to having no settlement surface at all.         |
 
+# Link
+
+![Science Daily : your source for the latest research news](Images/sd-logo.png)
+
+<https://www.sciencedaily.com/releases/2019/10/191016124633.htm>
