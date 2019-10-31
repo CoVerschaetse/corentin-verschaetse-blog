@@ -44,7 +44,6 @@ knitr::opts_chunk$set(echo = FALSE)
 | General topic?               | This article deals with drones which are use to make a cartography of the coral reef.                                                                                                                                      |
 | Procedure/what was examined? |  These drones are a new engineer invention. They are able to take perfectly clear shots through the water.                                                                                                                 |
 | Conclusions/discovery?       | These shots allow to have a 3D map of the coral reef. This will allow to the scientists to track their responses to the climate change.                                                                                    |
-| Remaining questions?         | Could the drones help us in other works like for example to feel a population of trees in a parcel of a forest?                                                                                                            |
 
 # Link
 
