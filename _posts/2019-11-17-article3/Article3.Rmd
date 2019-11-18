@@ -1,5 +1,5 @@
 ---
-title: "Article 3 : We Finally Know Why Florida's Coral Reefs Are Dying, and It's Not Just Climate Change"
+title: "Article 3 : We finally know why Florida's coral reefs are dying, and it's not just climate change"
 description: 
 author:
   - name: Verschaetse Corentin
