@@ -25,8 +25,23 @@ knitr::opts_chunk$set(echo = TRUE)
 | Upward                  | Rising / increasing              |
 | To disentangle          | To reveal / to generate          |
 | Spike above a threshold | Exceed a certain value           |
+| To get out of whack     | To degrade / to decline          |
+| Starvation              | Famine / malnutrition            |
+| A threshold             | A limit                          |
+| To mitigate             | To attenuate                     |
+| A statement             | A declaration                    |
+| Thriving                | Prospering                       |
 
 # Analysis table
+
+|                              |                                                                                                                                                              |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Researchers                  | **Brain Lapointe**, researcher at the Harbor Branch of Florida Atlantic University.  **James Porter**, an emeritus professor of ecology at the University of Georgia |
+| Published in?                | July 17, 2019                                                                                                                                                |
+| General topic?               |                                                                                                                                                              |
+| Procedure/what was examined? |                                                                                                                                                              |
+| Conclusions/discovery?       |                                                                                                                                                              |
+| Remaining questions?         |                                                                                                                                                              |
 
 # Link
 
