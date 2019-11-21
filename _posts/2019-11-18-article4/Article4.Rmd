@@ -1,11 +1,11 @@
 ---
-title: "COMMING SOON (Article 4 : The tiniest fish are the most important for healthy coral reefs)"
+title: "Article 4 : The tiniest fish are the most important for healthy coral reefs"
 description: 
 author:
   - name: Verschaetse Corentin
     url: {}
 date: 11-18-2019
-preview: ""
+preview: "Images/Ecsenius_strictus.jpg"
 output:
   distill::distill_article:
     self_contained: false
@@ -15,14 +15,33 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
+![Great Barrier Reef Blenny (*Ecsenius stictus*) / Tane Sinclair-Taylor](Images/Ecsenius_strictus.jpg)
 
 # Vocabulary
 
+| Words from the text       | Synonym / explanation in English |
+| ------------------------- | -------------------------------- |
+| To overlook               | To turn a blind eye to           |
+| Nooks and crannies        | Little places to hide            |
+| Not be aware of something | To ignore something              |
+| Cryptobenthic reef fish   | See the section "Illustration"   |
+| Egg yolk                  | The yellow part of an egg        |
+| To thrive                 | To prosper                       |
 
+# Illustration
+
+Cryptobenthic reef fish are less than 50 millimetres long as adults :
+![© Provided by Atlantic Media, Inc. Cryptobenthic fish include the Roughhead blenny, Belize sponge goby, Matador triplefin, Warteye stargazer, and Saddled blenny. (Credit: Jordan Casey)](Images/Cryptobenthic_reef_fish.png)
+
+For more information about cryptobenthic reef fish, I suggest you to read this really interesting article : 
+<https://pressfrom.info/us/news/science-and-technology/-280392-the-tiny-fish-that-break-a-fundamental-rule-of-vertebrate-life.html>
 
 # Analysis table
 
 
 
 # Link
+
+![](Images/newscientist_logo_rgb.jpg)
+
+<https://www.newscientist.com/article/2204346-the-tiniest-fish-are-the-most-important-for-healthy-coral-reefs/>

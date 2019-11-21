@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 | Words from the text     | Synonym / explanation in English |
 | ----------------------- | -------------------------------- |
-| A snorkeler             | A man who is diving              |
+| A snorkeler             | A man who is diving with mask and snorkel |
 | Upward                  | Rising / increasing              |
 | To disentangle          | To reveal / to generate          |
 | It is sickening         | It makes you sick                |
