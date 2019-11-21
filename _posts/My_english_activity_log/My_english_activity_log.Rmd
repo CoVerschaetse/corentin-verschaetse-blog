@@ -1,0 +1,26 @@
+---
+title: "My english activity log"
+description: 
+author:
+  - name: Verschaetse Corentin
+    url: {}
+date: 09-30-2019
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+|     |     |
+| --- | --- |
+| 16/09 to ? | **One strange rock**, 7/10 episodes done |
+| 19/09 to ? | Serie **Peaky blinders** in VO (season 1-2-3 done) |
+| 30/09 | Lyricstraining : Bohemian Rhapsody and I Want To Break Free **Queen** |
+| 08/10 | Lyricstraining : (I Can't Get No) Satisfaction **The Rolling Stones** |
+| 24/10 | Reading an article about car technology |
+| 20/11 | **Behind the flood** with Leonardo Di Caprio |
+|     |     |
