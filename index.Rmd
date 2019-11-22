@@ -2,6 +2,7 @@
 title: "Corals"
 site: distill::distill_website
 listing: posts
+background-color: black
 ---
 
 ```{r, echo = FALSE, eval = FALSE}
