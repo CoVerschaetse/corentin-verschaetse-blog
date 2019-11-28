@@ -18,5 +18,6 @@ collections:
         shortname: corentin-verschaetse-blog
         hidden: false
       share: [twitter, linkedin, facebook]
-output: distill::distill_article
-css: Styles.css
+output:
+  distill::distill_article:
+    css: Styles.css
