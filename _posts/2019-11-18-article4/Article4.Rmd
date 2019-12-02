@@ -38,7 +38,14 @@ For more information about cryptobenthic reef fish, I suggest you to read this r
 
 # Analysis table
 
-
+|                              |                                                                                                                                                                                                                                                                           |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                  | **Isabelle Cote** of Simon Fraser University in Canada. **Simon Brandl**, a Cote’s colleague                                                                                                                                                                              |
+| Published in?                | 24 may 2019                                                                                                                                                                                                                                                               |
+| General topic?               | This article is about a study on cryptobenthic reef fish. They wanted to demonstrate the importance of this group of fish on the corals.                                                                                                                                  |
+| Procedure/what was examined? | It has been shown that Larvae found in the middle of   the corals are mostly larvae of cryptobenthic species. The eggs of the   biggest fish float longer and drift outside the reefs. Cryptobenthic larvae are quickly eaten but on the   other hand they breed quickly. |
+| Conclusions/discovery?       | Cryptobenthic fish are more important that we   thought.                                                                                                                                                                                                                  |
+| Remaining questions?         | Maybe it is thanks to them that corals are so rich   in life when they live in water so nutrient-poor.                                                                                                                                                                    |
 
 # Link
 
