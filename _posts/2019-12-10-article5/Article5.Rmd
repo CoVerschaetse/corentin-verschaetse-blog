@@ -1,5 +1,5 @@
 ---
-title: "COMMING SOON -> Article 5 : For some corals, meals can come with a side of microplastics "
+title: "Article 5 : For some corals, meals can come with a side of microplastics "
 description: 
 author:
   - name: Verschaetse Corentin
