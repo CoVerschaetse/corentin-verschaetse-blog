@@ -19,6 +19,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Vocabulary
 
+| Words from the text | Synonym / explanation in English |
+| ------------------- | -------------------------------- |
+| Harmful             | Unhealthy, damaging, injurious   |
+| Ubiquitous          | Omnipresent, everywhere          |
+| To root to the reef | To establish on the reef         |
+| Counterpart         | Equivalent, equal                |
+| Cues                | Signals, indications             |
+| In the meantime     | Meanwhile, during this time      |
+
 # Analysis table
 
 # Link
@@ -26,3 +35,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ![](Images/University_of_Washington.png)
 
 <https://www.washington.edu/news/2019/12/03/for-some-corals-meals-can-come-with-a-side-of-microplastics/>
+
+# For the curious
+## Link of the scientific study
+
+<https://www.nature.com/articles/s41598-019-54698-7>
+
+## Illustrations
+
+<https://drive.google.com/drive/folders/1vsTGA4UaBD9UO0XyaRllxcaozapFzMzy>
