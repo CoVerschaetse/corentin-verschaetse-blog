@@ -4,8 +4,8 @@ description:
 author:
   - name: Verschaetse Corentin
     url: {}
-date: 11-18-2019
-preview: "Images/Ecsenius_strictus.jpg"
+date: 02-16-2020
+preview: "Images/coral-reef.jpg"
 output:
   distill::distill_article:
     self_contained: false

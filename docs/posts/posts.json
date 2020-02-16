@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-02-16-article6/",
+    "title": "Article 6 : Algae team rosters could help ID 'super corals'",
+    "description": {},
+    "author": [
+      {
+        "name": "Verschaetse Corentin",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-16",
+    "categories": [],
+    "preview": "posts/2020-02-16-article6/Images/coral-reef.jpg",
+    "last_modified": "2020-02-16T19:34:18+01:00"
+  },
+  {
     "path": "posts/2019-12-10-article5/",
     "title": "Article 5 : For some corals, meals can come with a side of microplastics ",
     "description": {},
@@ -43,21 +58,6 @@
     "categories": [],
     "preview": "posts/2019-11-17-article3/Images/Article3.jpg",
     "last_modified": "2019-11-21T12:46:45+01:00"
-  },
-  {
-    "path": "posts/2020-02-16-article6/",
-    "title": "Article 6 : Algae team rosters could help ID 'super corals'",
-    "description": {},
-    "author": [
-      {
-        "name": "Verschaetse Corentin",
-        "url": {}
-      }
-    ],
-    "date": "2019-11-18",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-02-16T18:31:58+01:00"
   },
   {
     "path": "posts/2019-10-30-article2/",
