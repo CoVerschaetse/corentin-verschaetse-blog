@@ -17,11 +17,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 |     |     |
 | --- | --- |
-| 16/09 to ? | **One strange rock**, 7/10 episodes done |
-| 19/09 to ? | Serie **Peaky blinders** in VO (season 1-2-3 done) |
-| 30/09 | Lyricstraining : Bohemian Rhapsody and I Want To Break Free **Queen** |
-| 08/10 | Lyricstraining : (I Can't Get No) Satisfaction **The Rolling Stones** |
-| 24/10 | Reading an article about car technology |
-| 20/11 | **Behind the flood** with Leonardo Di Caprio |
-| 28/11 | Watching videos about fish of the genus *Betta* for the futur purpose of having an aquarium with a couple of *Betta Mahachaiensis* |
-| 06/12 | Lyricstraining : Dance Monkey |
+| 16/09/19 to 03/02/20 | **One strange rock**, very interesting series to learn how our planet works ! |
+| 19/09/19 to ? | Serie **Peaky blinders** in VO (season 1-2-3 done) |
+| 30/09/16 | Lyricstraining : Bohemian Rhapsody and I Want To Break Free **Queen** |
+| 08/10/19 | Lyricstraining : (I Can't Get No) Satisfaction **The Rolling Stones** |
+| 24/10/19 | Reading an article about car technology |
+| 20/11/19 | **Behind the flood** with Leonardo Di Caprio |
+| 28/11/19 | Watching videos about fish of the genus *Betta* for the futur purpose of having an aquarium with a couple of *Betta Mahachaiensis* |
+| 06/12/19 | Lyricstraining : Dance Monkey |
+| 03/02 to ? | **ZOO** first season done |
