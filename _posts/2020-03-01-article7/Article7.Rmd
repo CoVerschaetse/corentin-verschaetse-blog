@@ -1,0 +1,25 @@
+---
+title: "Article 7 : Healthy coral sounds lure fish back to abandoned reefs, study finds"
+description: 
+author:
+  - name: Verschaetse Corentin
+    url: {}
+date: 03-01-2020
+preview: "Images/3600.jpg"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![Photograph: McPhoto/Nilsen/Alamy ](Images/3600.jpg)
+
+# Link
+
+![](Images/The_Guardian.svg.png)
+
+<https://www.theguardian.com/environment/2019/nov/29/sonic-youth-healthy-reef-sounds-lure-young-fish-to-degraded-areas>
+
