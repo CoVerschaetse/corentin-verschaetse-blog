@@ -1,0 +1,32 @@
+---
+title: "Bibliography"
+description: 
+author:
+  - name: Verschaetse Corentin
+    url: {}
+date: 04-16-2020
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+- <https://climate.nasa.gov/evidence/> (consulted on 04/16/20)
+- <https://www.iucnredlist.org/> (consulted on 04/16/20)
+- <https://oceanservice.noaa.gov/facts/coral_bleach.html> (consulted on 04/16/20)
+
+# Articles
+
+- <https://www.nature.com/articles/d41586-019-01988-9> (checked on 04/16/20)
+- <https://www.sciencedaily.com/releases/2019/10/191016124633.htm> (checked on 04/16/20)
+- <https://www.livescience.com/65958-florida-coral-reefs-nitrogen.html> (checked on 04/16/20)
+- <https://www.newscientist.com/article/2204346-the-tiniest-fish-are-the-most-important-for-healthy-coral-reefs/> (checked on 04/16/20)
+- <https://www.washington.edu/news/2019/12/03/for-some-corals-meals-can-come-with-a-side-of-microplastics/> (checked on 04/16/20)
+- <https://www.sciencedaily.com/releases/2020/02/200212150129.htm> (checked on 04/16/20)
+- <https://www.theguardian.com/environment/2019/nov/29/sonic-youth-healthy-reef-sounds-lure-young-fish-to-degraded-areas> (checked on 04/16/20)
