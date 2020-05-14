@@ -26,12 +26,13 @@ knitr::opts_chunk$set(echo = TRUE)
 | To withstand                        | To resist                                                                                                   |
 | To supplement                       | To complete, to add to                                                                                      |
 | A stony coral.                      | A true coral consisting of numerous anthozoan polyps embedded in the calcareous material that they secrete. |
-| Cornstarch [US] = cornflour [UK]    | a starch or a starchy flour made from corn                                                                  |
+| Cornstarch [US] = cornflour [UK]    | A starch or a starchy flour made from corn                                                                  |
 | To harm                             | To damage, to hurt                                                                                          |
 | To settle                           | To fix                                                                                                      |
 | A cafeteria-style choice experiment | A method of experimentation                                                                                 |
+| Regardless of                       | Besides the fact that                                                                                       |
 | A good proxy                        | A good approximation                                                                                        |
-| Freshwater                          | unsalted water                                                                                              |
+| Freshwater                          | Unsalted water                                                                                              |
 | To snag                             | To catch                                                                                                    |
 
 # Illustrations
@@ -47,7 +48,7 @@ knitr::opts_chunk$set(echo = TRUE)
 |                              |                                                                                                                                                                                                                                          |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Researchers                  | **Danielle Dixson** is an associate professor in UD's College of Earth, Ocean and Environment's School of Marine Science and Policy. **Emily Ruhl** earned her master's degree in marine biosciences at UD in 2018.                      |
-| Published in?                | October 16, 2019                                                                                                                                                                                                                         |
+| Published in?                | 16th October 2019                                                                                                                                                                                                                         |
 | General topic?               | The goal is to provide a structural starter kit for reef organisms.                                                                                                                                                                      |
 | Procedure/what was examined? | Research is about 3D-printed coral. What kind of material should we use to enable organisms to develop? And that without further polluting. The research focuses specifically on cohabitation between damselfish and mustard hill coral. |
 | Conclusions/discovery?       | Damselfish have no preference between coral skeleton or 3D-printed coral. They just want protection.  Moreover, mustard hill coral larvae settled easier on 3D-printed surfaces compared to having no settlement surface at all.         |
